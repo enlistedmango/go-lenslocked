@@ -241,7 +241,6 @@ $RECYCLE.BIN/
 # Ignore the lenslocked binary in source
 # code commits
 lenslocked
-
 .idea
 
 # End of https://www.toptal.com/developers/gitignore/api/go,macos,windows,linux,node
